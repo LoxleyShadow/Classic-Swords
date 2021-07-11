@@ -1,2 +1,2 @@
 # Classic-Swords
-Spigot Plugin
+Classic Swords Spigot Plugin
